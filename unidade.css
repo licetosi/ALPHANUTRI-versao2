@@ -1,0 +1,179 @@
+.alpha {
+    background-color: #F9D1AC;
+    text-align: center;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.segundocabeçalho {
+    background-color: #e3b488;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    width: 15%;
+}
+
+button {
+    width: 250px;
+    height: 30px;
+    background-color: #e3b488;
+    border-color: #000000;
+    border-radius: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px
+}
+
+.mm {
+    background-color: black;
+    width: 290px;
+    height: 30px;
+}
+
+.marque {
+    margin: 1cm;
+    font-size: 20px;
+    color: #e3b488;
+    width: 300px;
+    height: 30px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.clínica {
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+.imgimg img {
+    justify-content: center;
+    width: 600px;
+    height: 600px;
+    border-radius: 200px;
+    border: 1px solid #000000;
+    margin-top: 1cm;
+}
+
+.txtcns h1 {
+    position: relative;
+    margin-top: 1cm;
+    top: -380px;
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    text-shadow:
+        -1px 1px 0px #000000,
+        1px 0px 0px #ffffff;
+}
+
+iframe {
+    width: 100%;
+}
+
+.mtt h3 {
+    position: relative;
+    top: -450px;
+    color: white;
+}
+
+p {
+    margin-left: 5cm;
+    margin-right: 5cm;
+    font-size: 20px;
+}
+
+.bolinhas img {
+    width: 199px;
+    height: 199px;
+    border-radius: 100%;
+    margin: -130px 100px 0px 0px;
+}
+
+.bolinhas img:hover {
+    -webkit-box-shadow: 0px 0px 50px #e3b488;
+    -webkit-transform: rotate(360deg);
+}
+
+
+
+h3 {
+    text-shadow:
+        -1px -1px 0px #000000,
+        -1px 1px 0px #000000,
+        1px -1px 0px #000000,
+        1px 0px 0px #ffffff;
+}
+
+
+
+footer {
+    background-color: #F9D1AC;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 2cm;
+}
+
+.container {
+    display: flex;
+    align-items: end;
+    margin-left: 15%;
+
+}
+
+.logofinal img {
+    display: flex;
+    margin-left: 90px;
+    width: 250px;
+    height: 140px;
+    border-right: #000000;
+}
+
+.instagram img {
+    width: 1cm;
+    height: 1cm;
+    margin-left: 100px;
+    margin: 0px 5px 10px 0px;
+}
+
+.gmail img {
+    width: 1.7cm;
+    height: 1cm;
+
+}
+
+.whatsapp img {
+    width: 2.2cm;
+    height: 1.1cm;
+    margin: 0px 5px 10px 0px;
+}
+
+.linkedin img {
+    width: 1cm;
+    height: 1cm;
+}
+
+.imgss{
+    display:flex;
+    justify-content: center;
+}
+
+h5 {
+    text-decoration: none;
+    color: #000000;
+}
